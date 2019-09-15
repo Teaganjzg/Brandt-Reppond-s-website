@@ -16,9 +16,9 @@ and build his brand, it should be able to show his basic information and his wor
 professional and musical impression of him.
 
 ## Design & sketches
-I used browser design and scretch to plan out what this website should look like and feel. It's basically planing out the structure, color,
+I used browser design and sketch to plan out what this website should look like and feel. It's basically planing out the structure, color,
 typeface and make a sketch by hand then code and view in browser see how it looks like then make adjustments and go back to see the result,
-repeat till you are satisfied.
+repeat till I am satisfied.
 
 ### colors
 Colors are very important in design. I choose black as background and orange(\#e67e22) as highlight since black can gave the user a sense of music 
